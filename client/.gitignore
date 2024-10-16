@@ -11,11 +11,6 @@ node_modules/
 /client/node_modules
 
 # Build directories
-/dist
-/server/build
-/client/build
-/server/dist
-/client/dist
 
 # Environment files
 .env
