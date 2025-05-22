@@ -2,7 +2,6 @@
 
 A full-stack e-commerce platform for cat food enthusiasts, allowing users to sign in, browse products, and manage their shopping cart.
 
-[Live Demo](https://ecomm-app-s8nu.onrender.com)
 
 <img src="./client/src/assets/project.gif" width=425 height=425>
 
